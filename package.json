@@ -50,7 +50,7 @@
     "storage"
   ],
   "dependencies": {
-    "@google-cloud/common": "^0.13.0",
+    "@google-cloud/common": "jbaudanza/jbaudanza-google-cloud-common#bbf8e820939167716e1004cf238d2b4924e2f021",
     "arrify": "^1.0.0",
     "async": "^2.0.1",
     "concat-stream": "^1.5.0",
